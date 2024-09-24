@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
-[![Anurag's GitHub stats](https://zhangchaochao-fit2cloud.vercel.app/api?username=zhangchaochao-fit2cloud)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangchaochao-fit2cloud&count_private=true&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  
-[![Top Langs](https://zhangchaochao-fit2cloud.vercel.app/api/top-langs/?username=zhangchaochao-fit2cloud&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangchaochao-fit2cloud&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
