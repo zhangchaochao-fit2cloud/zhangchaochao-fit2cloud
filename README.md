@@ -1,5 +1,3 @@
-## Hi guys 👋
-
 <!--
 **zhangchaochao-fit2cloud/zhangchaochao-fit2cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangchaochao-fit2cloud&count_private=true&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangchaochao-fit2cloud&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center"><a href="https://zcdecay.github.io/"><img width="80%" alt="Hello, I'm chao!" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zhangchaochao-fit2cloud&count_private=true&theme=dracula&show_icons=true" alt="chao's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangchaochao-fit2cloud&layout=compact&theme=buefy&hide_border=true" /></a> |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
